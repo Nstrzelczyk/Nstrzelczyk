@@ -1,8 +1,8 @@
-# 👋 Hello, 
-- I’m Natalia Strzelczyk and I'm interested in Python (especially machine learning), game coding and functional tests.
-# 🌱 I’m currently learning
-- SQL, Godot and more about testing. I'd like to learn about automatic testing.
-# I learned from:
+# 👋 Hello! 
+- I’m Natalia Strzelczyk and I'm interested in Python (especially machine learning), game coding and functional tests. Currently working as a functional tester - freelance.
+# 🌱 I’m currently learning:
+- SQL, Godot, ML and more about testing. I'd like to learn automatic testing.
+# ✏️ I learned from:
 - courses:
 - https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2
 - Dwthon - Hack outside the box | Data Science
@@ -17,11 +17,12 @@
 - http://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques
 - http://www.linkedin.com/learning/programming-foundations-data-structures-2
 - http://www.linkedin.com/learning/python-xml-json-and-the-web
-
 - books:
-
+- "Automate the Boring Stuff with Python: Practical Programming for Total Beginners", Al Sweigart
+- "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython", Wes McKinney
+- "Web Scraping with Python: Collecting More Data from the Modern Web", Ryan Mitchell
 # 📫 How to reach me?
-- Email is on my GiHub Homepage
+- Email is on my GitHub Homepage
 
 <!---
 Nstrzelczyk/Nstrzelczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
