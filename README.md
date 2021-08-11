@@ -3,7 +3,7 @@
 # 🌱 I’m currently learning:
 - SQL, Godot, ML and more about testing. I'd like to learn automatic testing.
 # ✏️ I learned from:
-- courses:
+- Courses:
 - https://www.linkedin.com/learning/sql-data-reporting-and-analysis-2
 - Dwthon - Hack outside the box | Data Science
 - https://www.linkedin.com/learning/learning-selenium
@@ -17,10 +17,12 @@
 - http://www.linkedin.com/learning/python-data-structures-stacks-queues-and-deques
 - http://www.linkedin.com/learning/programming-foundations-data-structures-2
 - http://www.linkedin.com/learning/python-xml-json-and-the-web
-- books:
+- Books:
 - "Automate the Boring Stuff with Python: Practical Programming for Total Beginners", Al Sweigart
 - "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython", Wes McKinney
 - "Web Scraping with Python: Collecting More Data from the Modern Web", Ryan Mitchell
+# My hobbies:
+- Woodworking, crocheting, watercolour, bushcraft;
 # 📫 How to reach me?
 - Email is on my GitHub Homepage
 
